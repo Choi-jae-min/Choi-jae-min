@@ -1,6 +1,6 @@
 ### Hello 👋 I'm JAEMIN
 
-<p>
+<!-- <p>
   <code><img height="24" alt="typescript" src="https://cdn.worldvectorlogo.com/logos/typescript.svg"></code>
   <code><img height="24" alt="python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"></code>
   <code><img height="24" alt="kotlin" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg"></code>
@@ -16,7 +16,7 @@
   <code><img height="24" alt="redis" src="https://cdn.worldvectorlogo.com/logos/redis.svg"></code>
   <code><img height="24" alt="docker" src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"></code>
 </p>
-
+ -->
 
 
 
