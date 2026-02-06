@@ -1,11 +1,11 @@
 ### Hello 👋 I'm JAEMIN
 
-<!-- <a href="https://github.com/devxb/gitanimals">
+ <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/Choi-jae-min"/>
-</a> -->
+</a> 
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Choi-jae-min&utm_content=line">
+<a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/Choi-jae-min?pet-id=807643933942827678"
     width="600"
